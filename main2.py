@@ -117,7 +117,7 @@ def main():
                 )
 
                 # Generate Kundli Button
-                if st.button("🚀 Generate Kundli"):
+                if st.form_submit_button("🚀 Generate Kundli"):
                     # Construct the message
                     message = f"Name: {name}, Date of Birth: {dob}, Time of Birth: {time_of_birth}, Birthplace: {birthplace}"
 
