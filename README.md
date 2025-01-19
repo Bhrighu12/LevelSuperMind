@@ -1,11 +1,23 @@
 # ART Finder and Soulful Buddy
-This Streamlit Chatbot, built using Langflow and powered by AstraDB, provides AI-driven insights into social media post performance. Users can analyze engagement data across different post types, such as Reels,Carousel,Static images, to better understand audience interactions.
-## Key Features:
-Post Type Selection – Choose from various social media post formats (e.g., static images,reels,carousel).
-AI-Powered Insights – Leverage AI to generate detailed engagement analytics for posts, including likes, comments, shares, and impressions.
-GPT Integration - GPT-4o-mini to generate detailed conclusions and insight
-Platform Breakdown – Get platform-specific engagement metrics to track post performance.
-Data Storage with AstraDB – Seamlessly store and fetch social media data from AstraDB for fast, reliable insights.
+## ART Finder: Automated Research and Trigger Finder  
+ART Finder is a cutting-edge tool designed to revolutionize the research phase of ad creation. By automating data collection and analysis from sources like Google, YouTube, Reddit, Quora, and app reviews, it identifies user pain points, triggers, and trends. Marketers can uncover high-performing hooks, CTAs, and strategies used by competitors, while receiving actionable insights to craft compelling, user-centric ads. With its intuitive dashboard and visualized insights, ART Finder simplifies complex research and inspires creativity.  
+
+### Key Features:  
+- Comprehensive data scraping from blogs, forums, social media, and competitor ads.  
+- Insightful analysis of user problems, triggers, and market trends.  
+- Recommendations for effective hooks, CTAs, and ad strategies.  
+- Easy-to-navigate dashboard with graphs, word clouds, and sentiment analysis.  
+
+## SoulBuddy: Your AI-Powered Spiritual Guide*  
+SoulBuddy combines ancient wisdom with modern AI to provide personalized spiritual guidance through astrology and numerology. By analyzing user birth details, it generates detailed Kundalis, daily horoscopes, and actionable recommendations like gemstone suggestions and rituals. An interactive chatbot offers spiritual advice in a conversational format, making spiritual exploration accessible and engaging. SoulBuddy empowers users to enhance personal growth, emotional well-being, and spiritual connection.  
+
+### Key Features:
+- Kundali generation with insights into career, relationships, and personal growth.  
+- Personalized recommendations for gemstones and rituals with benefits explained.  
+- Meditation, workout, and sleep content tailored to astrological insights.  
+- AI-driven chatbot for spiritual advice and simplified explanations.  
+
+
 
 ---
 
@@ -50,6 +62,7 @@ streamlit run index.py
 ## Demonstration
 
 ## Website Link
+https://coderssquad-levelsupermind.streamlit.app/
 
 
 ## Notes
